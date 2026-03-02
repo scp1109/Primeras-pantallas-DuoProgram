@@ -29,7 +29,7 @@ class PantallaSeleccion extends StatelessWidget {
       'color': Color(0xFF4ADE00),
     },
     {
-      'nombre': 'ingeniería mecanica',
+      'nombre': 'Ingeniería Mecánica',
       'facultad': 'Facultad de Ciencias Exactas',
       'semestres': 10,
       'creditos': 160,
